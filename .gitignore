@@ -12,4 +12,18 @@ Thumbs.db
 
 # Ignore IDE settings
 .vscode/
+.idea/# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings
+.vscode/
 .idea/
